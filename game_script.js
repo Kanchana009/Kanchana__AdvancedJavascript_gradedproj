@@ -176,5 +176,5 @@ function finishGame() {
 
     // display the cpm and wpm
     cpm_group.style.display = "block";
-    wpm_group.style.display = "block";
+    wpm_group.style.display = "block";   
 }
